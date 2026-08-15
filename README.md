@@ -7,21 +7,21 @@ Perplexed is a Perplexity-inspired AI search engine that combines web search, AI
 
 The application supports multiple search modes and can also analyze uploaded documents to answer questions or generate useful summaries.
 
-## ✨ Features
+## Features
 
-- 🔎 **Web Search** – Search the web and generate AI-powered answers.
-- 📚 **Academic Search** – Search for research and academic information.
-- 💬 **Streaming Answers** – Responses are streamed in real time.
-- 📺 **YouTube Search** – Find and watch relevant YouTube videos.
-- 🖼️ **Image Search** – Search and display relevant images.
-- 🎥 **Video Search** – Search videos with an integrated video player.
-- 👤 **Reddit Search** – Search Reddit discussions and content.
-- ✍️ **Writing Assistant** – Generate and improve written content.
-- 📄 **Document Upload** – Upload PDF, TXT, DOC, and DOCX files for analysis.
-- 🧠 **Context-Aware Queries** – Follow-up questions use previous conversation context.
-- 🎯 **Focus Modes** – Choose a specialized agent depending on the search requirement.
+-  **Web Search** – Search the web and generate AI-powered answers.
+-  **Academic Search** – Search for research and academic information.
+-  **Streaming Answers** – Responses are streamed in real time.
+-  **YouTube Search** – Find and watch relevant YouTube videos.
+-  **Image Search** – Search and display relevant images.
+-  **Video Search** – Search videos with an integrated video player.
+-  **Reddit Search** – Search Reddit discussions and content.
+-  **Writing Assistant** – Generate and improve written content.
+-  **Document Upload** – Upload PDF, TXT, DOC, and DOCX files for analysis.
+-  **Context-Aware Queries** – Follow-up questions use previous conversation context.
+-  **Focus Modes** – Choose a specialized agent depending on the search requirement.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React
